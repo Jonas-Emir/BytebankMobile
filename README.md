@@ -1,16 +1,30 @@
-# bytebank
+<h1 align="center">Bytebank Mobile</h1> 
+  
+  <br/>
 
-A new Flutter project.
+![Bytebank](http://g.recordit.co/0IJ6ScnqaA.gif)
 
-## Getting Started
+</br>
+  
+  # :iphone: Foi desenvolvido no projeto uma etapa de transferência :leftwards_arrow_with_hook:
+  
+   
+  ### :heavy_check_mark: Primeiro projeto com a linguagem Dart utilizando o Flutter :hammer_and_wrench:
+  > 
+  > Layout com Widgets
+  >
+  > Estruturando o Projeto
+  >
+  > Implementando com Material Design
+  > 
+  > Refatorando código com boas práticas
+  
+ 
+   
+</br>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<h4 align="center"> 
+    :construction: Em continuidade para aplicar novas funcionalidades! :construction:
+</h4>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
